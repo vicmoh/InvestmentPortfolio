@@ -1,0 +1,3 @@
+s@goog@google waterloo@500@300.0@150009.99
+s@td@td bank@500@69.26@25009.99
+m@mf@mutual fund@10@10.0@100.0
