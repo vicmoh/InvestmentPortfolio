@@ -37,7 +37,7 @@ public class UserInterface {
     private static final int UPDATE = 3;
     private static final int GETGAIN = 4;
     private static final int SEARCH = 5;
-    private static final int FONT_SIZE = 35; 
+    private static final int FONT_SIZE = 20; 
     private static final String FONT_TYPE = "Serif";
     //declare string for the text field
     private String textFieldString;
