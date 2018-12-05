@@ -1,5 +1,4 @@
 /*Name: Vicky Mohamamd
- *ID: 0895381
  */
 package stock;
 import java.util.*;
